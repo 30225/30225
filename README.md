@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hello :wave:
 
-<!--
-**30225/30225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Angelo, I'm from Colombia 
 
-Here are some ideas to get you started:
+:star: I am a student of Electronic Engineering and Computer and Systems Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:star: I am certified Full stack / mobile developer and University Expert in ethical hacking
+
+:star: I collaborated with astrometrica in the International Astronomical Search Collaboration
+
+## Skills
+
+:star: Full stack / Movil developer 
+
+:star: Sistema operativo linux / windows
+
+:star: Professional Backend Developer
+
+:star: Agile methodologies (scrum)certified by IBM
+
+:star: Introduction to CISCO Cybersecurity
+
+
+
+## Contact
+
+(https://www.linkedin.com/in/angelodaviddiazlopez/)
