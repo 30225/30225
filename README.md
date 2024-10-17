@@ -4,7 +4,7 @@ My name is Angelo, I'm from Colombia
 
 :star: I am a student of Electronic Engineering and Computer and Systems Engineering
 
-:star: I am certified Full stack / mobile developer and University Expert in ethical hacking
+:star: I am certified Full stack developer and University Expert in ethical hacking
 
 :star: I collaborated with astrometrica in the International Astronomical Search Collaboration
 
