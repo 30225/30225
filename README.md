@@ -10,15 +10,12 @@ My name is Angelo, I'm from Colombia
 
 ## Skills
 
-:star: Full stack / Movil developer 
-
 :star: Sistema operativo linux / windows
 
 :star: Professional Backend Developer
 
 :star: Agile methodologies (scrum)certified by IBM
 
-:star: Introduction to CISCO Cybersecurity
 
 
 
