@@ -19,6 +19,3 @@ My name is Angelo, I'm from Colombia
 
 
 
-## Contact
-
-(https://www.linkedin.com/in/angelodaviddiazlopez/)
